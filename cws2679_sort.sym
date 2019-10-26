@@ -1,8 +1,8 @@
 //Symbol Name		Page Address
 //----------------	------------
-//	CHECK                   300A
+//	CHECK                   300B
 //	CYCLE                   3002
-//	FINISH                  301C
-//	PLACE                   3011
-//	POINTER                 301D
-//	SHIFT                   3013
+//	FINISH                  3021
+//	PLACE                   3012
+//	POINTER                 3022
+//	SHIFT                   3014

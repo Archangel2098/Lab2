@@ -1,22 +1,17 @@
 //Symbol Name		Page Address
 //----------------	------------
-//	CHECK                   300A
-//	CYCLE                   3002
-//	END1                    3034
-//	END2                    3040
-//	END3                    304C
-//	END4                    3053
-//	FINISH                  3054
-//	FIRST                   3057
-//	FOURTH                  305A
-//	LOOP1                   302C
-//	LOOP2                   3038
-//	LOOP3                   3044
-//	LOOP4                   304E
-//	PLACE                   3011
-//	POINTER                 3055
-//	SEARCH                  301C
-//	SECOND                  3058
-//	SHIFT                   3013
-//	TABLE                   3056
-//	THIRD                   3059
+//	ANCIENT                 301F
+//	CHECK                   3011
+//	FINISH                  302B
+//	FIRST                   3033
+//	FOURTH                  3036
+//	INTRVL1                 3037
+//	INTRVL2                 3038
+//	INTRVL3                 3039
+//	MODERN                  3028
+//	OLD                     3022
+//	POINTER                 3031
+//	RECENT                  3025
+//	SECOND                  3034
+//	TABLE                   3032
+//	THIRD                   3035
